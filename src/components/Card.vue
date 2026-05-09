@@ -5,9 +5,14 @@
 <template>
 
   <div>
-    <v-app>
-      <router-view />
-    </v-app>
+
+   Card
+  
+
   </div>
 
 </template>
+
+<style>
+
+</style>

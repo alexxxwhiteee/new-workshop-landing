@@ -5,9 +5,14 @@
 <template>
 
   <div>
-    <v-app>
-      <router-view />
-    </v-app>
+
+   Wallets
+  
+
   </div>
 
 </template>
+
+<style>
+
+</style>
